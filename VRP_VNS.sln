@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRP_VNS", "VRP_VNS.csproj", "{5E63F4D4-7139-4EB5-BC3E-A911BAA5CD09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E63F4D4-7139-4EB5-BC3E-A911BAA5CD09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E63F4D4-7139-4EB5-BC3E-A911BAA5CD09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E63F4D4-7139-4EB5-BC3E-A911BAA5CD09}.Debug|x64.ActiveCfg = Debug|x64
+		{5E63F4D4-7139-4EB5-BC3E-A911BAA5CD09}.Debug|x64.Build.0 = Debug|x64
+		{5E63F4D4-7139-4EB5-BC3E-A911BAA5CD09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E63F4D4-7139-4EB5-BC3E-A911BAA5CD09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E63F4D4-7139-4EB5-BC3E-A911BAA5CD09}.Release|x64.ActiveCfg = Release|x64
+		{5E63F4D4-7139-4EB5-BC3E-A911BAA5CD09}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAEF4F2A-CC82-4B69-93BC-71EC99CB41A1}
+	EndGlobalSection
+EndGlobal
